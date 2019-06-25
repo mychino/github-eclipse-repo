@@ -63,7 +63,7 @@
 	<div id="moviebox" style="margin-top: 180px; display: none"
 		align="center">
 		<video id="movie" height="500px" controls="controls"
-			src="/static/video/movie.mp4" onended="onVideoEnd();" />
+			src="https://gss3.baidu.com/6LZ0ej3k1Qd3ote6lo7D0j9wehsv/tieba-smallvideo-transcode/61990981_fd6360c7b3d2674e0b0937c34a4c1b1b_0.mp4" onended="onVideoEnd();" />
 	</div>
 </body>
 </html>
